@@ -91,7 +91,13 @@ streamlit run app.py
 ```
 
 Open `http://localhost:8501`  
-Default login: **admin / admin123** ← change immediately!
+
+### Development Credentials (Local Demo Only)
+
+Username: `admin`  
+Password: `admin123`
+
+⚠️ For local development only. Change credentials and `JWT_SECRET` before deployment.
 
 ---
 
